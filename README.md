@@ -2,7 +2,7 @@
 
 For the description of the README file, we have provided answers to frequently asked questions to provide a brief intoduction about our study, particularly for the Thesis committee. Thank you to the Thesis committee for reading through this GitHub and taking the time to evaluate my study. We sincerely hope that this research will add to the upcoming literature (in some shape or form) in synthetic data generation, using LLMs and/or deepfakes. 
 
-What is in this repository? This repository contains all of the files (google collab notebooks, google doc reports, powerpoint presentations) for supplementing our Thesis project. These files are provided for the Thesis committee's review. 
+What is in this repository? This repository contains all of the files (google collab notebooks, google doc reports, powerpoint presentations) for supplementing our Thesis project. These files are provided for the Thesis committee's review. Please feel free to send me an email to follow up on any portion of the study. 
 
 What do we investigate in this study? In this study, we investigate the impact of subsituting real user data with LLM-generated synthetic data for training classification models (RoBERTa, Support Vector Machine, Logistic Regression). The goal is to improve the model's performance (measured by F1, precision, recall) on unseen real user data in the underrepresented classes in the imbalanced TripAdvisor dataset. 
 
