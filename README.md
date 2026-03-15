@@ -1,6 +1,6 @@
 # Master's of Science in Computer Science - Thesis 
 
-For the description of the README file, we have provided answers to frequently asked questions to provide a brief intoduction about our study, particularly for the Thesis committee. Thank you to the Thesis committee for reading through this GitHub and taking the time to evaluate my study. We sincerely hope that this research will add to the upcoming literature (in some shape or form) in synthetic data generation, using LLMs and/or deepfakes. 
+For the description of the README file, we have provided answers to frequently asked questions to provide a brief intoduction about our study, particularly for the Thesis committee. Thank you to the Thesis committee for reading through this GitHub and taking the time to evaluate our study. We sincerely hope that this research will add to the upcoming literature (in some shape or form) in synthetic data generation, using LLMs and/or deepfakes. 
 
 What is in this repository? This repository contains all of the files (google collab notebooks, google doc reports, powerpoint presentations) for supplementing our Thesis project. These files are provided for the Thesis committee's review. 
 
