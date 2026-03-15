@@ -4,7 +4,7 @@ For the description of the README file, we have provided a brief intoduction abo
 
 What is in this repository? This repository contains all of the files (google collab notebooks, google doc reports, powerpoint presentations) for supplementing our Thesis project. These files are provided for the Thesis committee's review. 
 
-What are we investigating in this study? In this study, we are investigating the impact of subsituting real user data with LLM-generated synthetic data for training classification models (RoBERTa, Support Vector Machine, Logistic Regression). The goal is to improve the model's performance (measured by F1, precision, recall) on unseen real user data in the underrepresented classes in the imbalanced TripAdvisor dataset. 
+What are we investigating in this study? In this study, we are investigating the impact of subsituting real user data with LLM-generated synthetic data for training classification models (RoBERTa, Support Vector Machine, Logistic Regression) on sentiment analysis tasks. The goal is to improve the model's performance (measured by F1, precision, recall) on unseen real user data in the underrepresented classes in the imbalanced TripAdvisor dataset. 
 
 Why are we honing in on the minority classes of the TripAdvisor dataset? We honed in on the minority classes of the dataset because that is where RoBERTa typically fails. In this study, we are not focused on expanding the number of samples in the minority classes. We are focused on keeping the number of minority samples consistent, while injecting LLM-generated synthetic data into the minority classes to find if that would create measurable improvement in the F1-score, precision, and recall of the minority classes.    
 
